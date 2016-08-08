@@ -1,0 +1,22 @@
+{
+    "name": "kaliber5/doctrine-extra-bundle",
+    "description": "adds utc datetime support for doctrine datetime types",
+    "type": "symfony-bundle",
+    "authors": [
+        {
+            "name": "Andreas Schacht",
+            "email": "schacht@kaliber5.de"
+        },
+        {
+            "name": "Simon Ihmig",
+            "email": "ihmig@kaliber5.de"
+        }
+    ],
+    "require": {
+        "symfony/symfony": "^2.7.0",
+        "doctrine/dbal": "^2.4.0"
+    },
+    "autoload": {
+        "psr-4": { "Kaliber5\\DoctrineExtraBundle\\": "" }
+    }
+}
