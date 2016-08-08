@@ -17,6 +17,6 @@
         "doctrine/dbal": "^2.4.0"
     },
     "autoload": {
-        "psr-4": { "Kaliber5\\DoctrineExtraBundle\\": "" }
+        "psr-4": { "Kaliber5\\DoctrineExtraBundle\\": "DoctrineExtraBundle/" }
     }
 }
