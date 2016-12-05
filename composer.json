@@ -13,8 +13,8 @@
         }
     ],
     "require": {
-        "symfony/symfony": "^2.7.0",
-        "doctrine/dbal": "^2.4.0"
+        "symfony/symfony": "^3.2",
+        "doctrine/dbal": "^2.4"
     },
     "autoload": {
         "psr-4": { "Kaliber5\\DoctrineExtraBundle\\": "DoctrineExtraBundle/" }
